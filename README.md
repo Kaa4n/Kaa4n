@@ -1,10 +1,5 @@
 ## Olá! Eu sou o Kauan
 
-- 🔭 Estudante
-- 🌱 Java POO
-- 💬 Musicas
-- 📫 São josé dos Campos
-
 <div>
   <img align="right" alt="Kau-profile" src="https://media.discordapp.net/attachments/889664857564151818/1231273952261963987/gifmaker_me_4.gif?ex=66365c3a&is=6623e73a&hm=cb6d10ceef4097f60cc172020e7969b7cfbc675ab5b87dd03e9cc79dbd74f647&="
 </div>
