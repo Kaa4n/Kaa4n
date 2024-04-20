@@ -3,6 +3,9 @@
 <div>
   <img align="right" alt="Kau-profile" src="https://media.discordapp.net/attachments/889664857564151818/1231273952261963987/gifmaker_me_4.gif?ex=66365c3a&is=6623e73a&hm=cb6d10ceef4097f60cc172020e7969b7cfbc675ab5b87dd03e9cc79dbd74f647&="
 </div>
+<div>
+    <img height="200em" align="right" alt="Kau-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kaa4n&show_icons=true&theme=dark"
@@ -14,9 +17,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Kaa4n&show_icons=true" />
 </picture>
-<div>
-    <img height="200em" align="right" alt="Kau-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Kau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kau-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
